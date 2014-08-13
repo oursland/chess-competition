@@ -1,10 +1,10 @@
 Chess Competition
 =================
 
-WHAT: The competition is to pit two computer chess engines in a match, best 3 of 5.
-WHERE: R.C., S.D.
-WHEN: Week of Dec 22, 2014.
-WHY: FOR HONOR!  And beer.
+* WHAT: The competition is to pit two computer chess engines in a match, best 3 of 5.
+* WHERE: R.C., S.D.
+* WHEN: Week of Dec 22, 2014.
+* WHY: FOR HONOR!  And beer.
 
 Additional details:
 
